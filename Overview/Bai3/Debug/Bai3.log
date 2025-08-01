@@ -1,0 +1,10 @@
+﻿Build started 7/13/2025 10:17:55 AM.
+     1>Project "C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\Overview\Bai3\Bai3.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\Overview\Debug\Bai3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\Overview\Debug\Bai3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\Overview\Debug\Bai3.lib" /MACHINE:X86 Debug\main.obj
+         Bai3.vcxproj -> C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\Overview\Debug\Bai3.exe
+     1>Done Building Project "C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\Overview\Bai3\Bai3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.09
